@@ -79,12 +79,10 @@ Add additional notes about how to deploy this on a live system
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 
-## Authors
+## :raising_hand: Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-Jimin Oh [contributors](https://github.com/your/project/contributors) 
-Yunji Jeong [contributors](https://github.com/your/project/contributors) 
+* **Jimin Oh** - *Initial work* -  [contributors](https://github.com/Ojimin)
+* **Yunji Jeong** - *Initial work* -  [contributors](https://github.com/okodeee)
 
 ## License
 
