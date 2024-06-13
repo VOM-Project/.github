@@ -18,7 +18,7 @@
 - 프로필 수정
 - 닉네임 검색
 
-[:tv:demo youtube link](https://youtu.be/prhtpd36x_Q)
+# [:tv:demo youtube link](https://youtu.be/prhtpd36x_Q)
 
 ## Architecture
 
@@ -81,8 +81,14 @@ Add additional notes about how to deploy this on a live system
 
 ## :raising_hand: Authors
 
-* **Jimin Oh** - *Initial work* -  [contributors](https://github.com/Ojimin)
-* **Yunji Jeong** - *Initial work* -  [contributors](https://github.com/okodeee)
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/Ojimin"><img src="https://avatars.githubusercontent.com/u/27052233?v=4" width="100px;" alt=""/><br /><sub><b>Jimin Oh</b></sub></a></td>
+      <td align="center"><a href="https://github.com/okodeee"><img src="https://avatars.githubusercontent.com/u/120557382?s=64&v=4" width="100px;" alt=""/><br /><sub><b>Yunji Jeong<sub><b></b></sub></a></td>    
+    </tr>
+  </tobdy>
+</table>
 
 ## License
 
