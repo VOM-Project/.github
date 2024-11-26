@@ -30,7 +30,7 @@
 
 
 ## 📺 demo youtube link
-<iframe width="956" height="538" src="https://youtu.be/NaNQrhJPKEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/NaNQrhJPKEc/0.jpg)](https://youtu.be/NaNQrhJPKEc)
 
 ## Architecture
 
