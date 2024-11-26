@@ -29,7 +29,7 @@
 - 터치포인트 알림
 
 
-## 📺 demo youtube link
+## [📺 demo youtube link](https://youtu.be/prhtpd36x_Q)
 [![Video Label](http://img.youtube.com/vi/NaNQrhJPKEc/0.jpg)](https://youtu.be/NaNQrhJPKEc)
 
 ## Architecture
