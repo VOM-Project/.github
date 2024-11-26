@@ -1,6 +1,6 @@
-# :computer:VOM : WebRTC와 WebPushNotification을 활용한 실시간 웹캠 상호작용 플랫폼
+# 🌸 VOM : WebRTC와 WebPushNotification을 활용한 실시간 웹캠 상호작용 플랫폼
 
-## 핵심 기능
+## 💻핵심 기능
 ### 1. 로그인, 회원가입
 - 구글소셜로그인
 - 닉네임, 생년월일, 사는지역, 관심 키워드 설정
@@ -29,8 +29,8 @@
 - 터치포인트 알림
 
 
-## [:tv:demo youtube link]
-[![Video Label](http://img.youtube.com/vi/NaNQrhJPKEc/0.jpg)](https://youtu.be/NaNQrhJPKEc)
+## 📺 demo youtube link
+<iframe width="956" height="538" src="https://youtu.be/NaNQrhJPKEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Architecture
 
